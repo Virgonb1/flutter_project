@@ -1,0 +1,11 @@
+Map information ={
+  "name": "Nguyen Tran Quang Anh",
+  "age": "21",
+  "fermale": "true",
+  // "favorite" : "game",
+  "level": "1000",
+}
+print(information) {
+  information["age"] = "22",
+  information["favorite"].add("vape"),
+};
